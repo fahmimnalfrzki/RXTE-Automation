@@ -1,0 +1,1 @@
+elv.t.10.and.offset.lt.0.02.and.pcu2_on.eq.1.and.time_since_saa.gt.30.or.time_since_saa.lt.0.and.electron2.lt.0.1.and.time_since_brk.lt.-150.or.time_since_brk.gt.600
